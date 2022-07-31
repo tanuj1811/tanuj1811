@@ -44,7 +44,7 @@ Feel free to visit [my repositories](https://github.com/tanuj1811?tab=repositori
 ### <📫> How to reach me </📫>
 
 [![Github badge](https://img.shields.io/badge/tanuj1811-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tanuj1811) 
-[![Linkedin badge](https://img.shields.io/badge/Linkedin-100000?style=for-the-badge&logo=github&logoColor=white)](https://linkedin.com/in/tanujsharma01) 
+[![Linkedin badge](https://img.shields.io/badge/Linkedin-100000?style=for-the-badge&logo=linkedin&logoColor=blue)](https://linkedin.com/in/tanujsharma01) 
 
 ---
 
