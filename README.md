@@ -3,7 +3,7 @@
 
 ### <🌹> About me </🌹>
 
-My name is [Tanuj Sharma](https://tanuj1811.github.io/) and I'm a Indian **developer**. I'm here on GitHub to:
+My name is [Tanuj Sharma](https://tanuj1811.github.io/) and I'm a  **full stack developer**. I'm here on GitHub to:
 - Share my personal projects;
 - Learn more about front-end technologies;
 - Contribute to third-party projects;
@@ -15,7 +15,21 @@ Feel free to visit [my repositories](https://github.com/tanuj1811?tab=repositori
 
 ### <🛠> Tech stack </🛠>
 
-![HTML5 badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3 badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![jQuery badge](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white) ![Bootstrap badge](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) ![Python badge](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![VSCode badge](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![Chome badge](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white) ![Git badge](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white) ![Linux badge](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Java badge](https://img.shields.io/badge/JAVA-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) 
+![ReacJS badge](https://img.shields.io/badge/ReactJS-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![J2EE badge](https://img.shields.io/badge/J2EE-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
+![Spring boot](https://img.shields.io/badge/Spring_boot-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
+![NodeJS badge](https://img.shields.io/badge/NodeJS-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) 
+![ExpressJS badge](https://img.shields.io/badge/ExpressJS-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) 
+![HTML5 badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3 badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
+![JavaScript badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) 
+![jQuery badge](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white) 
+![Bootstrap badge](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) 
+![VSCode badge](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) 
+![Chome badge](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white) 
+![Git badge](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white) 
+![Linux badge](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
@@ -30,6 +44,7 @@ Feel free to visit [my repositories](https://github.com/tanuj1811?tab=repositori
 ### <📫> How to reach me </📫>
 
 [![Github badge](https://img.shields.io/badge/tanuj1811-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tanuj1811) 
+[![Linkedin badge](https://img.shields.io/badge/Linkedin-100000?style=for-the-badge&logo=github&logoColor=white)](https://linkedin.com/in/tanujsharma01) 
 
 ---
 
