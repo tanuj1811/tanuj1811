@@ -1,11 +1,13 @@
 # Hi there! 👋 😃
  
 
-### <🌹> About me </🌹>
+### About me
 
-My name is [Tanuj Sharma](https://tanuj1811.github.io/) and I'm a  **full stack developer**. I'm here on GitHub to:
+My name is [Tanuj Sharma](https://tanuj1811.github.io/) and I'm a  **full stack developer**. 
+
+I'm here on GitHub to:
 - Share my personal projects;
-- Learn more about front-end technologies;
+- Learn more about new techs;
 - Contribute to third-party projects;
 - Get inspiration and new ideas!
 
@@ -15,6 +17,15 @@ Feel free to visit [my repositories](https://github.com/tanuj1811?tab=repositori
 
 ### <🛠> Tech stack </🛠>
 
+*Languages*: Java, JavaScript, C++, SQL, Latex 
+
+Framework/Libraries: Spring boot, ReactJS, NodeJS, ExpressJS, J2EE (JSP/SERVLETS)
+
+Databases: MongoDB, Firebase, MySQL
+
+Developer Tools: Docker, Git, GitHub
+
+<!--
 ![Java badge](https://img.shields.io/badge/JAVA-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) 
 ![ReacJS badge](https://img.shields.io/badge/ReactJS-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![J2EE badge](https://img.shields.io/badge/J2EE-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
@@ -31,6 +42,7 @@ Feel free to visit [my repositories](https://github.com/tanuj1811?tab=repositori
 ![Git badge](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white) 
 ![Linux badge](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
+-->
 ---
 
 ### <📊> GitHub stats </📊>
@@ -48,7 +60,7 @@ Feel free to visit [my repositories](https://github.com/tanuj1811?tab=repositori
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=%230EAA20&vCenter=true&lines=Thanks+for+visiting!+You're+welcome!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=%230EAA20&vCenter=true&lines=Thanks+for+visiting!!)](https://git.io/typing-svg)
 
 <!--
 **tanuj1811/tanuj1811** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
