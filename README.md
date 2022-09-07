@@ -1,4 +1,4 @@
-# Hi there! 👋 😃
+<!-- # Hi there! 👋 😃
  
 
 ### About me
@@ -11,11 +11,11 @@ I'm here on GitHub to:
 - Contribute to third-party projects;
 - Get inspiration and new ideas!
 
-Feel free to visit [my repositories](https://github.com/tanuj1811?tab=repositories). Doubts or suggestions, please open an **issue** or a **pull request** and let's talk!
+Feel free to visit [my repositories](https://github.com/tanuj1811?tab=repositories). Doubts or suggestions, please open an **issue** or a **pull request** and let's talk! -->
 
 ---
 
-### <🛠> Tech stack </🛠>
+### Tech stack
 
 *Languages*: Java, JavaScript, C++, SQL, Latex 
 
