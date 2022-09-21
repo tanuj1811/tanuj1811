@@ -59,6 +59,7 @@ Developer Tools: Docker, Git, GitHub
 [![Linkedin badge](https://img.shields.io/badge/Linkedin-100000?style=for-the-badge&logo=linkedin&logoColor=blue)](https://linkedin.com/in/tanujsharma01) 
 
 ---
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tanuj1811&label=Profile%20views&color=0e75b6&style=flat" alt="viewcount" /> </p>  
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=%230EAA20&vCenter=true&lines=Thanks+for+visiting!!)](https://git.io/typing-svg)
 
